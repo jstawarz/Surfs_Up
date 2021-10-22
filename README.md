@@ -48,5 +48,5 @@ By refactoring our previous code, we can also determine the rainfall levels for 
 
 By looking at the rain data, Oahu appears to be a fairly dry place the majority of the time. In June, 75% of the measurements taken were under
 .12 inches of rainfall, whereas in December 75% of the measurements taken were under .15 inches of rainfall. Of note, both months have maximum
-rainfall levels of 4.43 inches and 6.42 inches respectively. Considering the otherwise low ammount of rainfall, this would indicate downpours that
+rainfall levels of 4.43 inches and 6.42 inches respectively. Considering the otherwise low amount of rainfall, this would indicate downpours that
 occur sporadically. Taking rainfall into consideration as well as temperature, Oahu certainly seems to be a good location for the surf/ice cream shop.
